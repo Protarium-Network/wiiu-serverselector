@@ -1,11 +1,6 @@
-# Wii U Server Selector downloader manifest v1
-# Format:
-# server|name|version|description
-# file|server-name|filename|https-url|sha256
-
 server|Protarium|3.1.0|Protarium Network Plugins
-file|Protarium|Inkay-pretendo.wps|https://github.com/NoobieDoesModding/wiiu-serverselector/releases/download/Release/Inkay-pretendo.wps|8c0c3d4324e35b685b44acdfd352fd516a5c7aa77bbefc27a4558aac54ad2ed7
-file|Protarium|Inkay-pretendo.wms|https://github.com/NoobieDoesModding/wiiu-serverselector/releases/download/Release/Inkay-pretendo.wms|0f01440676e4de04c53086b26616d8d33b665a054bad99c7dd286adfa764968f
+file|Protarium|Inkay-pretendo.wps|https://github.com/NoobieDoesModding/wiiu-serverselector/releases/download/Protarium/Inkay-pretendo.wps|8c0c3d4324e35b685b44acdfd352fd516a5c7aa77bbefc27a4558aac54ad2ed7
+file|Protarium|Inkay-pretendo.wms|https://github.com/NoobieDoesModding/wiiu-serverselector/releases/download/Protarium/Inkay-pretendo.wms|0f01440676e4de04c53086b26616d8d33b665a054bad99c7dd286adfa764968f
 
 server|Pretendo|3.0.0|Pretendo Network Plugins
 file|Pretendo|Inkay-pretendo.wms|https://github.com/NoobieDoesModding/wiiu-serverselector/releases/download/Releas/Inkay-pretendo.wms|5b4d5eb31db1a1b35bf079ba9805acd8c324cc2674ef47ec9a99c88fe53b9369
